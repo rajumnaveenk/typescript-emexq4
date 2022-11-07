@@ -11,4 +11,4 @@ const number2 = 3;
 
 const result = add(number1, number2);
 document.write(result);
-alert(result);
+//alert(result);
